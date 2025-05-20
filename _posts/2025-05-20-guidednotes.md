@@ -3,7 +3,7 @@ layout: post
 title:  "Guided Notes Prose/Curation"
 author: leah
 categories: [ non-refinements ]
-image: assets/images/bokeh_logo.png
+image: assets/images/notes.jpg
 permalink: /guided-notes-n/
 ---
 
